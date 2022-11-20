@@ -1,0 +1,14 @@
+C:\Users\lalaig\Desktop\n\Indexer-Reflection\Indexer-Reflection\bin\Debug\netcoreapp3.1\Indexer-Reflection.exe
+C:\Users\lalaig\Desktop\n\Indexer-Reflection\Indexer-Reflection\bin\Debug\netcoreapp3.1\Indexer-Reflection.deps.json
+C:\Users\lalaig\Desktop\n\Indexer-Reflection\Indexer-Reflection\bin\Debug\netcoreapp3.1\Indexer-Reflection.runtimeconfig.json
+C:\Users\lalaig\Desktop\n\Indexer-Reflection\Indexer-Reflection\bin\Debug\netcoreapp3.1\Indexer-Reflection.runtimeconfig.dev.json
+C:\Users\lalaig\Desktop\n\Indexer-Reflection\Indexer-Reflection\bin\Debug\netcoreapp3.1\Indexer-Reflection.dll
+C:\Users\lalaig\Desktop\n\Indexer-Reflection\Indexer-Reflection\bin\Debug\netcoreapp3.1\Indexer-Reflection.pdb
+C:\Users\lalaig\Desktop\n\Indexer-Reflection\Indexer-Reflection\obj\Debug\netcoreapp3.1\Indexer-Reflection.csproj.AssemblyReference.cache
+C:\Users\lalaig\Desktop\n\Indexer-Reflection\Indexer-Reflection\obj\Debug\netcoreapp3.1\Indexer-Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalaig\Desktop\n\Indexer-Reflection\Indexer-Reflection\obj\Debug\netcoreapp3.1\Indexer-Reflection.AssemblyInfoInputs.cache
+C:\Users\lalaig\Desktop\n\Indexer-Reflection\Indexer-Reflection\obj\Debug\netcoreapp3.1\Indexer-Reflection.AssemblyInfo.cs
+C:\Users\lalaig\Desktop\n\Indexer-Reflection\Indexer-Reflection\obj\Debug\netcoreapp3.1\Indexer-Reflection.csproj.CoreCompileInputs.cache
+C:\Users\lalaig\Desktop\n\Indexer-Reflection\Indexer-Reflection\obj\Debug\netcoreapp3.1\Indexer-Reflection.dll
+C:\Users\lalaig\Desktop\n\Indexer-Reflection\Indexer-Reflection\obj\Debug\netcoreapp3.1\Indexer-Reflection.pdb
+C:\Users\lalaig\Desktop\n\Indexer-Reflection\Indexer-Reflection\obj\Debug\netcoreapp3.1\Indexer-Reflection.genruntimeconfig.cache
